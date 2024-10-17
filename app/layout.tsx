@@ -2,8 +2,8 @@ import './globals.css'
 import { Inter } from 'next/font/google'
 
 export const metadata = {
-  title: '肩叩き銀行',
-  description: '肩叩き券を発行する機関',
+  title: 'COSA Anti-Piracy Center',
+  description: '序列号验证与发行',
 }
 
 const inter = Inter({
